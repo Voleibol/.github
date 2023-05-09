@@ -38,3 +38,6 @@ https://www.wikiwand.com/es/Voleibol_en_los_Juegos_Panamericanos harta info
 **Idea**
 
 - para las formaciones que exista un dibujo de la cancha y al tocar el recurso cambia la formación.
+
+
+https://www.juntadeandalucia.es/averroes/centros-tic/18700441/myscrapbook/bookcontents.php?page=7&section=3&viewis=&username=#:~:text=m%20para%20mujeres.-,El%20bal%C3%B3n,utilizado%20es%20el%20de%20cuero.
