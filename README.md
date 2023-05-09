@@ -21,3 +21,16 @@ Con el tiempo, se han introducido cambios sustanciales en el vóleibol buscando 
 
 https://www.wikiwand.com/es/Voleibol_en_los_Juegos_Panamericanos harta info
 
+
+**De que hablar**
+
+- como hacer punto
+- saques
+- roles
+- reglas mas importantes
+- equipos clasificados
+- historia voley en panamericanos
+- ubicacion juegos panamericanos
+- 
+
+
