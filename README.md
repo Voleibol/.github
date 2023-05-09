@@ -34,3 +34,7 @@ https://www.wikiwand.com/es/Voleibol_en_los_Juegos_Panamericanos harta info
 - 
 
 
+
+**Idea**
+
+- para las formaciones que exista un dibujo de la cancha y al tocar el recurso cambia la formación.
